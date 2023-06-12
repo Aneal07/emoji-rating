@@ -1,5 +1,5 @@
 # Emoji Rating
-Emoji Rating is a lightweight JavaScript library that enables you to add an interactive emoji-based rating system to your web applications.
+Emoji Rating  that enables you to add an interactive emoji-based rating system to your web applications.
 
 Features
 Customizable emoji set
