@@ -1,11 +1,12 @@
 # Emoji Rating
-Emoji Rating  that enables you to add an interactive emoji-based rating system to your web applications.
+Emoji Rating  lets you add an interactive emoji-based rating system to your web applications.
 
 Using 
 Html,
-Css and 
+CSS and 
 JavaScript
 
+link : [https://aneal07.github.io/emoji-rating/]
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
