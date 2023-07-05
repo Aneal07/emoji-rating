@@ -6,7 +6,7 @@ Html,
 CSS and 
 JavaScript
 
-![Screenshot] (./emoji-rating.png)
+![Screenshot] (../emoji-rating.jpg)
 
 link : [https://aneal07.github.io/emoji-rating/]
 
