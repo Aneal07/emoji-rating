@@ -6,6 +6,8 @@ Html,
 CSS and 
 JavaScript
 
+![Screenshot] (./emoji-rating.png)
+
 link : [https://aneal07.github.io/emoji-rating/]
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
